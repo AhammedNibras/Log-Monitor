@@ -17,5 +17,3 @@ This Bash script monitors a specified log file for new entries and performs basi
 - The script will perform basic analysis on log entries, including counting occurrences of INFO, WARNING, and ERROR messages.
 - It will display the top 5 messages for each log level.
 - It will continuously monitor the log file and display new log entries.
-
-
