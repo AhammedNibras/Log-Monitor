@@ -3,7 +3,7 @@
 This Bash script monitors a specified log file for new entries and performs basic log analysis.
 
 ## Usage
-- Clone or download the script from the GitHub repository.
+- Clone or download the script from the GitHub repository and change directory into it.
 - Set the log file path in the script to the desired log file location.
 - Make the script executable using the following command: chmod 777 log-monitor.sh
 - Run the script using './log-monitor.sh'.
